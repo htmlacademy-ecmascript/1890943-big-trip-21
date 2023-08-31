@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Stepan Poletaev](https://up.htmlacademy.ru/ecmascript/21/user/1890943).
-* Наставник: `Неизвестно`.
+* Наставник: [Вероника Синицына](https://htmlacademy.ru/profile/id118601).
 
 ---
 
